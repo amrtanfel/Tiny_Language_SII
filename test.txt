@@ -1,0 +1,15 @@
+compil Test (){
+  intCompil a,d;
+  floatCompil b,c;
+  start
+  if ( 3 + 2 < a - b ) then
+  {
+  a= d;
+  }
+  else
+  {
+   a = d + 1;
+  }
+
+   d= a + 3 - 4 ;
+  }
